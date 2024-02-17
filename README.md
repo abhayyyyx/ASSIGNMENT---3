@@ -1,4 +1,4 @@
-![image](https://github.com/abhayyyyx/ASSIGNMENT---3/assets/158348694/c365b6ea-b97b-478c-a906-c1fe2e339a6c)# ASSIGNMENT---3
+
 
 Q1 : A F&B manager wants to determine whether there is any significant difference in the diameter of the cutlet between two units. A randomly selected sample of cutlets was collected from both units and measured? Analyze the data and draw inferences at 5% significance level. Please state the assumptions and tests that you carried out to check validity of the assumptions.!
 
